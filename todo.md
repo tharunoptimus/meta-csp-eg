@@ -1,0 +1,3 @@
+- innerHTML with GET
+- Self Executing with Code Injection
+-
